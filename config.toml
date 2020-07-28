@@ -1,0 +1,5 @@
+baseURL = "http://example.org/"
+DefaultContentLanguage= "zh"
+languageCode = "zh-cn"
+title = "闲来无事的野路子"
+theme = "ananke"
