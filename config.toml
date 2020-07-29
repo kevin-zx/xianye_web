@@ -1,5 +1,9 @@
-baseURL = "http://example.org/"
+baseURL = "http://www.xianye66.com/"
 DefaultContentLanguage= "zh"
 languageCode = "zh-cn"
 title = "闲来无事的野路子"
+
 theme = "ananke"
+#theme = "hugo-clarity"
+#https://themes.gohugo.io/hugo-icarus/
+#https://themes.gohugo.io/hugo-clarity/
