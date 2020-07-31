@@ -1,9 +1,114 @@
-baseURL = "http://www.xianye66.com/"
+baseurl = "http://www.xianye66.com/"
 DefaultContentLanguage= "zh"
 languageCode = "zh-cn"
 title = "闲来无事的野路子"
+# Enable comments by entering your Disqus shortname
+disqusShortname = ""
+# Enable Google Analytics by entering your tracking code
+googleAnalytics = ""
+# Define the number of posts per page
+paginate = 10
+footnotereturnlinkcontents = "↩"
+theme = "hugo-icarus"
+# Comment the themesDir option if you use this theme in production
+# themesDir = "../.."
 
-theme = "ananke"
-#theme = "hugo-clarity"
-#https://themes.gohugo.io/hugo-icarus/
-#https://themes.gohugo.io/hugo-clarity/
+
+[permalinks]
+    post = "/:year/:month/:day/:slug"
+
+
+[params]
+    # Tell me who you are
+    author = "张显"
+    bio = "博客 - 编程 - 闲"
+    location = "苏州"
+    site_description = "闲，野"
+    copyright  = "Powered by [Hugo](//gohugo.io). "
+    avatar = "css/images/avatar.png"
+    # Enter your email address to display your Gravatar icon in the profile. If not set the theme
+    # will fallback to the avatar.
+    gravatar = "zhangxian887@qq.com"
+    logo = "css/images/logo.png"
+    disable_mathjax = false # set to true to disable MathJax
+
+    # define which types of pages should be shown. By default the type with the most regular pages
+    mainSections = ["post"]
+
+    # Format dates with Go's time formatting
+    date_format = "2006-01-02"
+
+    # Add custom assets with their paths relative to the static folder
+	custom_css = []
+	custom_js  = []
+
+# Create custom menu entries by defining a label and a link for
+# them. Since you can also link posts, you've the option the
+# place the links before or after them.
+#
+# E.g.: "Home" appears before all linked posts in the menu
+# and "Tags" / "Categories" after them.
+[[params.menu]]
+    before = true
+    label  = "首页"
+    link   = "/"
+
+[[params.menu]]
+    before = false
+    label  = "标签"
+    link   = "tags/"
+
+[[params.menu]]
+    before = false
+    label  = "分类"
+    link   = "categories/"
+
+#[[params.menu]]
+#    before = false
+#    label  = "Test"
+#    link   = "test/"
+
+# Enter a link for the follow button on the left
+[params.profile]
+    follow_button = "https://github.com/kevin-zx/"
+
+
+[social]
+# Add your social network accounts to the profile section on the left
+# by entering your username. The links to your account will be
+# created automatically.
+    github          = ""
+    gitlab          = ""
+    bitbucket       = ""
+    jsfiddle        = ""
+    codepen         = ""
+    foursquare      = ""
+    dribbble        = ""
+    deviantart      = ""
+    behance         = ""
+    flickr          = ""
+    instagram       = ""
+    youtube         = ""
+    vimeo           = ""
+    vine            = ""
+    medium          = ""
+    wordpress       = ""
+    tumblr          = ""
+    xing            = ""
+    linkedin        = ""
+    slideshare      = ""
+    stackoverflow   = ""
+    reddit          = ""
+    pinterest       = ""
+    googleplus      = ""
+    facebook        = ""
+    facebook_admin  = ""
+    twitter_domain  = ""
+    twitter         = ""
+
+# Enable and disable widgets for the right sidebar
+[params.widgets]
+    recent_articles = true
+    categories = true
+    tags = true
+    tag_cloud = true
