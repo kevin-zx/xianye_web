@@ -3,9 +3,11 @@ title: "Homebrew on Linux (linux 中安装 Homebrew)"
 date: 2020-07-28T18:06:47+08:00
 draft: false
 summary: "在Linux( Debian|Ubuntu|Fedora|CentOS|RedHat )中安装 Homebrew"
-keywords: ["homebrew", "linux"]
+keywords: ["homebrew", "linux", "安装"]
 tags: ["tech", "homebrew", "keyword"]
 categories: ["技术"]
+description: "在Linux( Debian|Ubuntu|Fedora|CentOS|RedHat )中安装 Homebrew"
+banner: "images/homebrew.png"
 ---
 [HomeBrew 官网安装文档](https://docs.brew.sh/Homebrew-on-Linux "HomeBrew 官网文档")
 

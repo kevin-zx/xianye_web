@@ -1,7 +1,7 @@
 baseurl = "http://www.xianye66.com/"
 DefaultContentLanguage= "zh"
 languageCode = "zh-cn"
-title = "闲来无事的野路子"
+title = "技术笔记|读书笔记|行业思考-闲来无事的野路子"
 # Enable comments by entering your Disqus shortname
 disqusShortname = ""
 # Enable Google Analytics by entering your tracking code
@@ -23,7 +23,7 @@ theme = "hugo-icarus"
     author = "张显"
     bio = "博客 - 编程 - 闲"
     location = "苏州"
-    site_description = "闲，野"
+    site_description = "技术笔记|读书笔记|行业思考-闲来无事的野路子"
     copyright  = "Powered by [Hugo](//gohugo.io). "
     avatar = "css/images/avatar.png"
     # Enter your email address to display your Gravatar icon in the profile. If not set the theme

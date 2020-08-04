@@ -1,4 +1,5 @@
 ---
+
 title: "稀缺：我们是如何陷入贫穷与忙碌的"
 date: 2020-07-29T22:40:49+08:00
 draft: false
@@ -6,6 +7,8 @@ summary: "稀缺：我们是如何陷入贫穷与忙碌的"
 keywords: ["稀缺", "scarcity"]
 tags: ["read"]
 categories: ["book"]
+description: "稀缺：我们是如何陷入贫穷与忙碌的 简单笔记"
+
 ---
 # 稀缺
 
