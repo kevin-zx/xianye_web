@@ -1,0 +1,1 @@
+hugo new post/Principles-of-search-engine.md
