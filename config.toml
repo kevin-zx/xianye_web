@@ -6,6 +6,8 @@ title = "技术笔记|读书笔记|行业思考-闲来无事的野路子"
 disqusShortname = ""
 # Enable Google Analytics by entering your tracking code
 googleAnalytics = ""
+
+#
 # Define the number of posts per page
 paginate = 10
 footnotereturnlinkcontents = "↩"
@@ -13,6 +15,8 @@ theme = "hugo-icarus"
 # Comment the themesDir option if you use this theme in production
 # themesDir = "../.."
 
+# 中文
+hasCJKLanguage = true
 
 [permalinks]
     post = "/:year/:month/:day/:slug"
@@ -41,6 +45,9 @@ theme = "hugo-icarus"
     # Add custom assets with their paths relative to the static folder
 	custom_css = []
 	custom_js  = []
+
+    # baidu tongji token
+    baidu_tongji = "60527daf9252dbc7ecfd0ceddbb93243"
 
 # Create custom menu entries by defining a label and a link for
 # them. Since you can also link posts, you've the option the
