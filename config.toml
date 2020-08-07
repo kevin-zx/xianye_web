@@ -15,7 +15,7 @@ theme = "hugo-icarus"
 # Comment the themesDir option if you use this theme in production
 # themesDir = "../.."
 
-# 中文
+# 中文 This will make .Summary and .WordCount behave correctly
 hasCJKLanguage = true
 
 [permalinks]
