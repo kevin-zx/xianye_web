@@ -6,6 +6,7 @@ description: "一个Golang 实现的拓词工具，使用不同方法拓词"
 categories: ["SEO","GO","源码"]
 tags: ["SEO","GO","拓词工具"]
 summary: "一个Golang 实现的拓词工具，使用不同方法拓词"
+slug: "baidu expand words"
 ---
 
 # wordexpand 百度拓词工具

@@ -6,6 +6,7 @@ summary: "简述自己对搜索引擎的历史解度，并且为下一步对SEO�
 tags: ["SEO", "THINKING"]
 categories: ["SEO"]
 description: "搜索引擎的根本目的是什么？帮客户接入到本身需求对应的服务中去..."
+slug: "principles of search engine"
 ---
 
 ## 引子：

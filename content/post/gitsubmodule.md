@@ -7,6 +7,7 @@ keywords: ["git", "submodule", "add", "init", "update", "remove", "子模块", "
 tags: ["git", "command"]
 categories: ["技术"]
 description: "Git submodule 的使用， git 子模块的添加、使用、删除"
+slug: "git submodule"
 ---
 
 [转载至](https://blog.csdn.net/guotianqing/article/details/82391665 "git中submodule子模块的添加、使用和删除")

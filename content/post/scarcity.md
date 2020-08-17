@@ -8,7 +8,7 @@ keywords: ["稀缺", "scarcity"]
 tags: ["read"]
 categories: ["book"]
 description: "稀缺：我们是如何陷入贫穷与忙碌的 简单笔记"
-
+slug: "scarcity"
 ---
 # 稀缺
 

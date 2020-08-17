@@ -6,6 +6,7 @@ description: "hugo 基础模板和块(block) 的使用"
 categories: ["hugo"]
 tags: ["hugo中文文档"]
 summary: "hugo 基础模板和块(block) 的使用"
+slug: "hugo block"
 ---
 
 

@@ -6,5 +6,6 @@ description: ""
 categories: []
 tags: []
 summary: ""
+slug: "{{ replace .Name "-" " " }}"
 ---
 

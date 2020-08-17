@@ -6,6 +6,7 @@ description: "hugo url 管理使用 ref 和 relref 短代码来完成， ref 生
 categories: ["hugo"]
 tags: ["hugo中文文档"]
 summary: "hugo 中文文档， 关于如何在文章和模板中管理生产 url"
+slug: "hugo url manage"
 ---
 
 # HUGO 在文章中如何使用 URL — HUGO url管理

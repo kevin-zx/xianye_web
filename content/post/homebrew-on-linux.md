@@ -8,6 +8,7 @@ tags: ["tech", "homebrew", "keyword"]
 categories: ["技术"]
 description: "在Linux( Debian|Ubuntu|Fedora|CentOS|RedHat )中安装 Homebrew"
 banner: "images/homebrew.png"
+slug: "homebrew on linux"
 ---
 [HomeBrew 官网安装文档](https://docs.brew.sh/Homebrew-on-Linux "HomeBrew 官网文档")
 
